@@ -3,10 +3,11 @@
 I build small, practical projects in **Python**, **C++**, and **web (HTML/CSS/JS)** — with a tilt toward **cybersecurity** and **web apps**.
 
 ## Featured projects
-- Port Scanner (Python) — scans a host for open TCP ports.
-- Password Generator (C++) — creates strong passwords and checks strength.
-- Portfolio Website — minimal, responsive personal site.
-- To-Do App (JS) — simple client-side app with localStorage.
+- Attack Tree Assistant (HTML, CSS, JS, Python): Helps design attack trees with suggestions on node addition and pruning, and provides descriptions for nodes present
+- Port Scanner (Python): scans a host for open TCP ports.
+- Password Generator (C++): creates strong passwords and checks strength.
+- Portfolio Website: minimal, responsive personal site.
+- To-Do App (JS): simple client-side app with localStorage.
 
 ## What I’m focusing on
 - Clean, well-structured repos

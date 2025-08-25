@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Writban
 
-<!--
-**Writban/Writban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, practical projects in **Python**, **C++**, and **web (HTML/CSS/JS)** — with a tilt toward **cybersecurity** and **web apps**.
 
-Here are some ideas to get you started:
+## Featured projects
+- Port Scanner (Python) — scans a host for open TCP ports.
+- Password Generator (C++) — creates strong passwords and checks strength.
+- Portfolio Website — minimal, responsive personal site.
+- To-Do App (JS) — simple client-side app with localStorage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focusing on
+- Clean, well-structured repos
+- Small tests + simple CI
+- Clear READMEs and live demos (GitHub Pages)
+
+📫 **Contact:** writbanalim@gmail.com • [GitHub](https://github.com/<ame>)

@@ -1,7 +1,8 @@
 # Hi, I'm Writban
 
 I build small, practical projects in **Python**, **C++**, and **web (HTML/CSS/JS)** — with a tilt toward **cybersecurity** and **web apps**. 
-// More realistically I just be doing what catches my fancy though
+
+//More realistically I just be doing what catches my fancy though
 
 ## Featured projects
 - Attack Tree Assistant (HTML, CSS, JS, Python): Helps design attack trees with suggestions on node addition and pruning, and provides descriptions for nodes present
@@ -10,10 +11,10 @@ I build small, practical projects in **Python**, **C++**, and **web (HTML/CSS/JS
 - Portfolio Website: minimal, responsive personal site.
 - To-Do App (JS): simple client-side app with localStorage.
 
-## What I’m focusing on
-- Clean, well-structured repos
-- Small tests + simple CI
-- Clear READMEs and live demos (GitHub Pages)
+## What I’m currently focusing on
+- Explorations of understanding AI with interactive websites
+- Simple videogames
+- Web applications that may occasionally make someone say "Huh, neat"
 
 📫 **Contact:** writbanalim@gmail.com • [GitHub](https://github.com/<ame>)
 

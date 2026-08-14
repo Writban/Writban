@@ -1,6 +1,6 @@
 # Hi, I'm Writban
 
-I build small, practical projects in **Python**, **C++**, and **web (HTML/CSS/JS)** — with a tilt toward **cybersecurity** and **web apps**.
+I build small, practical projects in **Python**, **C++**, and **web (HTML/CSS/JS)** — with a tilt toward **cybersecurity** and **web apps**. /* More realistically I just be doing what catches my fancy though. */
 
 ## Featured projects
 - Attack Tree Assistant (HTML, CSS, JS, Python): Helps design attack trees with suggestions on node addition and pruning, and provides descriptions for nodes present
